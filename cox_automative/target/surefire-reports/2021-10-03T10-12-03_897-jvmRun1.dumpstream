@@ -1,0 +1,53 @@
+# Created at 2021-10-03T10:12:09.550
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-10-03T10:12:11.221
+Unexpected IOException with stream: {"vehicleId":457347895,"year":2009,"make":"Ford","model":"F150","dealerId":289220620}
+
+
+# Created at 2021-10-03T10:12:12.409
+Unexpected IOException with stream: {"vehicleId":964634287,"year":2016,"make":"Honda","model":"Accord","dealerId":352481405}
+
+
+# Created at 2021-10-03T10:12:13.574
+Unexpected IOException with stream: {"vehicleId":1296189458,"year":2016,"make":"Bentley","model":"Mulsanne","dealerId":1175371116}
+
+
+# Created at 2021-10-03T10:12:17.699
+Unexpected IOException with stream: {"vehicleId":1164528080,"year":2016,"make":"Kia","model":"Soul","dealerId":289220620}
+
+
+# Created at 2021-10-03T10:12:19.828
+Unexpected IOException with stream: {"vehicleId":1300694821,"year":2014,"make":"Ford","model":"F150","dealerId":352481405}
+
+
+# Created at 2021-10-03T10:12:21.953
+Unexpected IOException with stream: {"vehicleId":1499535854,"year":2012,"make":"Nissan","model":"Altima","dealerId":1175371116}
+
+
+# Created at 2021-10-03T10:12:26.096
+Unexpected IOException with stream: {"vehicleId":431456692,"year":1979,"make":"Cheverolet","model":"Corvette","dealerId":1175371116}
+
+
+# Created at 2021-10-03T10:12:30.216
+Unexpected IOException with stream: {"vehicleId":2116628197,"year":2004,"make":"MINI","model":"Cooper","dealerId":352481405}
+
+
+# Created at 2021-10-03T10:12:31.351
+Unexpected IOException with stream: {"vehicleId":529016162,"year":2013,"make":"Mitsubishi","model":"Gallant","dealerId":289220620}
+
+
+# Created at 2021-10-03T10:12:31.352
+Unexpected IOException: 6,1,vechicle,NewVechicledetailswithdatasetid(vechicle),null,null,null
+
+
+# Created at 2021-10-03T10:12:31.352
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,vechicle,null,null,null
+
+
