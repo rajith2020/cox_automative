@@ -46,4 +46,4 @@
 [INFO] Finished at: 2021-10-03T10:22:07-04:00
 [INFO] Final Memory: 22M/169M
 
-![image](https://user-images.githubusercontent.com/71590616/135758444-8e9f42a3-419e-4da3-93bf-03cca5dce515.png)
+
