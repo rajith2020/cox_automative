@@ -30,20 +30,6 @@
 
 ## Results:
 
-
-                      [INFO]  T E S T S
-[INFO] -------------------------------------------------------
-[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.226 s - in vechicle
-[INFO] 
-[INFO] Results:
-[INFO] 
-[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0
-[INFO] 
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time: 31.412 s
-[INFO] Finished at: 2021-10-03T10:22:07-04:00
-[INFO] Final Memory: 22M/169M
+![image](https://user-images.githubusercontent.com/71590616/135758554-3902ce11-efb2-42da-b28f-9445cbb83056.png)
 
 
