@@ -5,6 +5,11 @@
 2. Install Java 
 3. Set environment variable with JAVA_HOME with jdk Location and Add also JAVA_HOME/bin to the $PATH
 
+
+##Step to download the project:
+Down load the below project https://github.com/rajith2020/cox_automative into youre local system. 1.open the eclipse 2.Click File menu 3.In file menu click Import 4.A window is open Now click General Folder 5.Now click Existing project into workspace 6.Then click the select from root directory 7.Browse the loaction where you dowloaded the project
+
+
 ## How to Run Testcases
  
         1.Install Maven https://maven.apache.org/download.cgi
